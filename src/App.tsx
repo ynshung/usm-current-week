@@ -85,8 +85,8 @@ export default function App() {
   }
 
   return (
-    <div className="px-4 min-h-screen flex items-center justify-center bg-gradient-to-r from-blue-100 to-blue-300">
-      <div className="py-8 px-16 shadow-lg rounded-2xl text-center space-y-4 bg-white">
+    <div className="px-4 min-h-dvh flex items-center justify-center bg-gradient-to-r from-blue-100 to-blue-300">
+      <div className="py-8 px-12 md:px-16 shadow-lg rounded-2xl text-center space-y-4 bg-white">
         <div className="text-md text-gray-600">
           Today is <span className="font-bold">{formattedToday}</span>
         </div>
