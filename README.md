@@ -5,7 +5,7 @@ A simple static website to display the current week number, the current date, an
 Built with React + Vite + TailwindCSS and vibe coded using GPT-4o with personal modification.
 
 ## Demo
-https://ynshung.github.io/usm-current-week/
+https://usm.ynshung.com
 
 ## License
 The Unlicense
